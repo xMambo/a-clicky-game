@@ -1,0 +1,153 @@
+
+[
+    {
+      "id": 1,
+      "image": "https://www.mariowiki.com/images/thumb/3/3e/Mario_SSBUltimate.png/223px-Mario_SSBUltimate.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://www.mariowiki.com/images/thumb/7/7e/DonkeyKong_SSBU.png/240px-DonkeyKong_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://www.mariowiki.com/images/thumb/5/5e/LinkSSBU.png/240px-LinkSSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://www.mariowiki.com/images/thumb/0/03/Samus_SSBU.png/240px-Samus_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://www.mariowiki.com/images/thumb/0/00/Sheik_SSBU.png/240px-Sheik_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://www.mariowiki.com/images/thumb/c/ce/YoshiSSBU.png/240px-YoshiSSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://www.mariowiki.com/images/thumb/e/e9/Marth_SSBU.png/240px-Marth_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://www.mariowiki.com/images/thumb/2/2f/Fox_SSBU.png/212px-Fox_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://www.mariowiki.com/images/thumb/9/93/Pikachu_SSBU.png/240px-Pikachu_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://www.mariowiki.com/images/thumb/2/23/Snake_SSBUltimate.png/240px-Snake_SSBUltimate.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://www.mariowiki.com/images/thumb/1/1d/LuigiSSBU.png/219px-LuigiSSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://www.mariowiki.com/images/thumb/8/82/Ness_SSBU.png/240px-Ness_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 13,
+      "image": "https://www.mariowiki.com/images/thumb/7/76/CaptainFalcon_SSBU.png/240px-CaptainFalcon_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 14,
+      "image": "https://www.mariowiki.com/images/thumb/6/6a/Jigglypuff_SSBU.png/240px-Jigglypuff_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 15,
+      "image": "https://www.mariowiki.com/images/thumb/6/6a/PeachSSBU.png/213px-PeachSSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 16,
+      "image": "https://www.mariowiki.com/images/thumb/3/38/Pit_SSBU.png/240px-Pit_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 17,
+      "image": "https://www.mariowiki.com/images/thumb/4/49/Bowser_SSBU.png/240px-Bowser_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 18,
+      "image": "https://www.mariowiki.com/images/thumb/e/e0/IceClimbers_SSBU.png/209px-IceClimbers_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 19,
+      "image": "https://www.mariowiki.com/images/thumb/b/ba/Sonic_SSBU.png/240px-Sonic_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 20,
+      "image": "https://www.mariowiki.com/images/thumb/4/4a/Pok%C3%A9monTrainer_%28solo%29_SSBU.png/240px-Pok%C3%A9monTrainer_%28solo%29_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 21,
+      "image": "https://www.mariowiki.com/images/thumb/b/b3/Cloud_SSBU.png/240px-Cloud_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 22,
+      "image": "https://www.mariowiki.com/images/thumb/b/b3/Olimar_SSBU.png/240px-Olimar_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 23,
+      "image": "https://www.mariowiki.com/images/thumb/f/f4/ZeroSuitSamus_SSBU.png/240px-ZeroSuitSamus_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 24,
+      "image": "https://www.mariowiki.com/images/thumb/7/75/MetaKnightSSBU.png/240px-MetaKnightSSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 25,
+      "image": "https://www.mariowiki.com/images/thumb/d/de/Mewtwo_SSBU.png/240px-Mewtwo_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 26,
+      "image": "https://www.mariowiki.com/images/thumb/8/8a/MegaMan_SSBU.png/240px-MegaMan_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 27,
+      "image": "https://www.mariowiki.com/images/thumb/d/da/Greninja_SSBU.png/240px-Greninja_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 28,
+      "image": "https://www.mariowiki.com/images/thumb/c/c4/Corrin_SSBU.png/240px-Corrin_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 29,
+      "image": "https://www.mariowiki.com/images/thumb/b/b4/DrMario_SSBU.png/240px-DrMario_SSBU.png",
+      "clicked": false
+    },
+    {
+      "id": 30,
+      "image": "https://www.mariowiki.com/images/thumb/9/91/Ganondorf_SSBU.png/238px-Ganondorf_SSBU.png",
+      "clicked": false
+    }
+  ]

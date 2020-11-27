@@ -17,22 +17,22 @@
     },
     {
       "id": 4,
-      "image": "https://www.mariowiki.com/images/thumb/0/03/Samus_SSBU.png/240px-Samus_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/0/03/Samus_SSBU.png/500px-Samus_SSBU.png",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "https://www.mariowiki.com/images/thumb/0/00/Sheik_SSBU.png/240px-Sheik_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/0/00/Sheik_SSBU.png/500px-Sheik_SSBU.png",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "https://www.mariowiki.com/images/thumb/c/ce/YoshiSSBU.png/240px-YoshiSSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/4/4d/Yoshi_-_Mario_Party_10.png/400px-Yoshi_-_Mario_Party_10.png",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "https://www.mariowiki.com/images/thumb/e/e9/Marth_SSBU.png/240px-Marth_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/e/e9/Marth_SSBU.png/500px-Marth_SSBU.png",
       "clicked": false
     },
     {
@@ -42,12 +42,12 @@
     },
     {
       "id": 9,
-      "image": "https://www.mariowiki.com/images/thumb/9/93/Pikachu_SSBU.png/240px-Pikachu_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/9/93/Pikachu_SSBU.png/400px-Pikachu_SSBU.png",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "https://www.mariowiki.com/images/thumb/2/23/Snake_SSBUltimate.png/240px-Snake_SSBUltimate.png",
+      "image": "https://www.mariowiki.com/images/thumb/2/23/Snake_SSBUltimate.png/440px-Snake_SSBUltimate.png",
       "clicked": false
     },
     {
@@ -57,12 +57,12 @@
     },
     {
       "id": 12,
-      "image": "https://www.mariowiki.com/images/thumb/8/82/Ness_SSBU.png/240px-Ness_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/8/82/Ness_SSBU.png/500px-Ness_SSBU.png",
       "clicked": false
     },
     {
       "id": 13,
-      "image": "https://www.mariowiki.com/images/thumb/7/76/CaptainFalcon_SSBU.png/240px-CaptainFalcon_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/7/76/CaptainFalcon_SSBU.png/500px-CaptainFalcon_SSBU.png",
       "clicked": false
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "id": 15,
-      "image": "https://www.mariowiki.com/images/thumb/6/6a/PeachSSBU.png/213px-PeachSSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/b/b7/SuperMarioParty_Peach_2.png/350px-SuperMarioParty_Peach_2.png",
       "clicked": false
     },
     {
@@ -92,27 +92,27 @@
     },
     {
       "id": 19,
-      "image": "https://www.mariowiki.com/images/thumb/b/ba/Sonic_SSBU.png/240px-Sonic_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/b/ba/Sonic_SSBU.png/500px-Sonic_SSBU.png",
       "clicked": false
     },
     {
       "id": 20,
-      "image": "https://www.mariowiki.com/images/thumb/4/4a/Pok%C3%A9monTrainer_%28solo%29_SSBU.png/240px-Pok%C3%A9monTrainer_%28solo%29_SSBU.png",
+      "image": "https://www.ssbwiki.com/images/thumb/2/28/Pok%C3%A9mon_Trainer_%28solo%29_SSBU.png/1200px-Pok%C3%A9mon_Trainer_%28solo%29_SSBU.png",
       "clicked": false
     },
     {
       "id": 21,
-      "image": "https://www.mariowiki.com/images/thumb/b/b3/Cloud_SSBU.png/240px-Cloud_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/b/b3/Cloud_SSBU.png/500px-Cloud_SSBU.png",
       "clicked": false
     },
     {
       "id": 22,
-      "image": "https://www.mariowiki.com/images/thumb/b/b3/Olimar_SSBU.png/240px-Olimar_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/b/b3/Olimar_SSBU.png/500px-Olimar_SSBU.png",
       "clicked": false
     },
     {
       "id": 23,
-      "image": "https://www.mariowiki.com/images/thumb/f/f4/ZeroSuitSamus_SSBU.png/240px-ZeroSuitSamus_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/f/f4/ZeroSuitSamus_SSBU.png/500px-ZeroSuitSamus_SSBU.png",
       "clicked": false
     },
     {
@@ -122,27 +122,27 @@
     },
     {
       "id": 25,
-      "image": "https://www.mariowiki.com/images/thumb/d/de/Mewtwo_SSBU.png/240px-Mewtwo_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/d/de/Mewtwo_SSBU.png/500px-Mewtwo_SSBU.png",
       "clicked": false
     },
     {
       "id": 26,
-      "image": "https://www.mariowiki.com/images/thumb/8/8a/MegaMan_SSBU.png/240px-MegaMan_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/8/8a/MegaMan_SSBU.png/500px-MegaMan_SSBU.png",
       "clicked": false
     },
     {
       "id": 27,
-      "image": "https://www.mariowiki.com/images/thumb/d/da/Greninja_SSBU.png/240px-Greninja_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/d/da/Greninja_SSBU.png/500px-Greninja_SSBU.png",
       "clicked": false
     },
     {
       "id": 28,
-      "image": "https://www.mariowiki.com/images/thumb/c/c4/Corrin_SSBU.png/240px-Corrin_SSBU.png",
+      "image": "https://www.mariowiki.com/images/thumb/c/c4/Corrin_SSBU.png/500px-Corrin_SSBU.png",
       "clicked": false
     },
     {
       "id": 29,
-      "image": "https://www.mariowiki.com/images/thumb/b/b4/DrMario_SSBU.png/240px-DrMario_SSBU.png",
+      "image": "data:image/jpeg;base64,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",
       "clicked": false
     },
     {
